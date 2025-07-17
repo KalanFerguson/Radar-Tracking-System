@@ -15,7 +15,7 @@ A real-time radar turret simulation using Arduino and Processing. This project i
 - Serial communication between Arduino and Processing
 - Live display of angle and distance on-screen
 
-## 💻 Technologies Used
+## Technologies Used
 
 | Component       | Description                            |
 |----------------|----------------------------------------|
@@ -26,14 +26,14 @@ A real-time radar turret simulation using Arduino and Processing. This project i
 | **Processing 4**| Custom radar visual and serial interface |
 
 
-## 🧠 What I Learned
+## What I Learned
 
 - Microcontroller-to-PC serial data handling
 - Real-time visualisation in Processing
 - Debugging sensor noise and UI lag
 - System integration: hardware, code, and communication
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Add buzzer or LCD alert system
 - Improve UI with distance markers and signal trails
